@@ -1,0 +1,15 @@
+C:\Projects\dotnet\aws-todo\geekible.todo\geekible.todo.repositories\obj\Debug\net7.0\geekible.todo.repositories.csproj.AssemblyReference.cache
+C:\Projects\dotnet\aws-todo\geekible.todo\geekible.todo.repositories\obj\Debug\net7.0\geekible.todo.repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\dotnet\aws-todo\geekible.todo\geekible.todo.repositories\obj\Debug\net7.0\geekible.todo.repositories.AssemblyInfoInputs.cache
+C:\Projects\dotnet\aws-todo\geekible.todo\geekible.todo.repositories\obj\Debug\net7.0\geekible.todo.repositories.AssemblyInfo.cs
+C:\Projects\dotnet\aws-todo\geekible.todo\geekible.todo.repositories\obj\Debug\net7.0\geekible.todo.repositories.csproj.CoreCompileInputs.cache
+C:\Projects\dotnet\aws-todo\geekible.todo\geekible.todo.repositories\bin\Debug\net7.0\geekible.todo.repositories.deps.json
+C:\Projects\dotnet\aws-todo\geekible.todo\geekible.todo.repositories\bin\Debug\net7.0\geekible.todo.repositories.dll
+C:\Projects\dotnet\aws-todo\geekible.todo\geekible.todo.repositories\bin\Debug\net7.0\geekible.todo.repositories.pdb
+C:\Projects\dotnet\aws-todo\geekible.todo\geekible.todo.repositories\bin\Debug\net7.0\geekible.todo.models.dll
+C:\Projects\dotnet\aws-todo\geekible.todo\geekible.todo.repositories\bin\Debug\net7.0\geekible.todo.models.pdb
+C:\Projects\dotnet\aws-todo\geekible.todo\geekible.todo.repositories\obj\Debug\net7.0\geekible.todo.repositories.csproj.CopyComplete
+C:\Projects\dotnet\aws-todo\geekible.todo\geekible.todo.repositories\obj\Debug\net7.0\geekible.todo.repositories.dll
+C:\Projects\dotnet\aws-todo\geekible.todo\geekible.todo.repositories\obj\Debug\net7.0\refint\geekible.todo.repositories.dll
+C:\Projects\dotnet\aws-todo\geekible.todo\geekible.todo.repositories\obj\Debug\net7.0\geekible.todo.repositories.pdb
+C:\Projects\dotnet\aws-todo\geekible.todo\geekible.todo.repositories\obj\Debug\net7.0\ref\geekible.todo.repositories.dll

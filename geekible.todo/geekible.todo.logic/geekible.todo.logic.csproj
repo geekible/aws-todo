@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\geekible.todo.models\geekible.todo.models.csproj" />
+    <ProjectReference Include="..\geekible.todo.repositories\geekible.todo.repositories.csproj" />
+  </ItemGroup>
+
 </Project>

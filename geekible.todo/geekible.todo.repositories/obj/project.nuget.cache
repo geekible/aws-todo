@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "0X3xEr4dCAGIdm1yLZQox6Pd1It9RCL8Sz+gezQtb88ko+syuWOLSbHEj+wTdyBbWmHlxvB87Zh/1K4ROUf2VA==",
+  "dgSpecHash": "v2VDrDneDGsm8f4A2CfQGm+NghQ6NRlOGzeNvWhygnz2wWmc4IzagmWAeivdQW61GvEv6Qu/QRteWDWPF0aGJw==",
   "success": true,
   "projectFilePath": "C:\\Projects\\dotnet\\aws-todo\\geekible.todo\\geekible.todo.repositories\\geekible.todo.repositories.csproj",
   "expectedPackageFiles": [

@@ -15,7 +15,6 @@ C:\Projects\dotnet\aws-todo\geekible.todo\WebApplication1\obj\Debug\net7.0\WebAp
 C:\Projects\dotnet\aws-todo\geekible.todo\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfoInputs.cache
 C:\Projects\dotnet\aws-todo\geekible.todo\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfo.cs
 C:\Projects\dotnet\aws-todo\geekible.todo\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CoreCompileInputs.cache
-C:\Projects\dotnet\aws-todo\geekible.todo\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
 C:\Projects\dotnet\aws-todo\geekible.todo\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
 C:\Projects\dotnet\aws-todo\geekible.todo\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Projects\dotnet\aws-todo\geekible.todo\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication1.props
@@ -31,3 +30,12 @@ C:\Projects\dotnet\aws-todo\geekible.todo\WebApplication1\obj\Debug\net7.0\refin
 C:\Projects\dotnet\aws-todo\geekible.todo\WebApplication1\obj\Debug\net7.0\WebApplication1.pdb
 C:\Projects\dotnet\aws-todo\geekible.todo\WebApplication1\obj\Debug\net7.0\WebApplication1.genruntimeconfig.cache
 C:\Projects\dotnet\aws-todo\geekible.todo\WebApplication1\obj\Debug\net7.0\ref\WebApplication1.dll
+C:\Projects\dotnet\aws-todo\geekible.todo\WebApplication1\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Projects\dotnet\aws-todo\geekible.todo\WebApplication1\bin\Debug\net7.0\AWSSDK.DynamoDBv2.dll
+C:\Projects\dotnet\aws-todo\geekible.todo\WebApplication1\bin\Debug\net7.0\geekible.todo.logic.dll
+C:\Projects\dotnet\aws-todo\geekible.todo\WebApplication1\bin\Debug\net7.0\geekible.todo.models.dll
+C:\Projects\dotnet\aws-todo\geekible.todo\WebApplication1\bin\Debug\net7.0\geekible.todo.repositories.dll
+C:\Projects\dotnet\aws-todo\geekible.todo\WebApplication1\bin\Debug\net7.0\geekible.todo.logic.pdb
+C:\Projects\dotnet\aws-todo\geekible.todo\WebApplication1\bin\Debug\net7.0\geekible.todo.models.pdb
+C:\Projects\dotnet\aws-todo\geekible.todo\WebApplication1\bin\Debug\net7.0\geekible.todo.repositories.pdb
+C:\Projects\dotnet\aws-todo\geekible.todo\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs

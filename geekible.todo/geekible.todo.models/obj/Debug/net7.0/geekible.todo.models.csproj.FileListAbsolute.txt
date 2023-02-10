@@ -1,0 +1,12 @@
+C:\Projects\dotnet\aws-todo\geekible.todo\geekible.todo.models\bin\Debug\net7.0\geekible.todo.models.deps.json
+C:\Projects\dotnet\aws-todo\geekible.todo\geekible.todo.models\bin\Debug\net7.0\geekible.todo.models.dll
+C:\Projects\dotnet\aws-todo\geekible.todo\geekible.todo.models\bin\Debug\net7.0\geekible.todo.models.pdb
+C:\Projects\dotnet\aws-todo\geekible.todo\geekible.todo.models\obj\Debug\net7.0\geekible.todo.models.csproj.AssemblyReference.cache
+C:\Projects\dotnet\aws-todo\geekible.todo\geekible.todo.models\obj\Debug\net7.0\geekible.todo.models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\dotnet\aws-todo\geekible.todo\geekible.todo.models\obj\Debug\net7.0\geekible.todo.models.AssemblyInfoInputs.cache
+C:\Projects\dotnet\aws-todo\geekible.todo\geekible.todo.models\obj\Debug\net7.0\geekible.todo.models.AssemblyInfo.cs
+C:\Projects\dotnet\aws-todo\geekible.todo\geekible.todo.models\obj\Debug\net7.0\geekible.todo.models.csproj.CoreCompileInputs.cache
+C:\Projects\dotnet\aws-todo\geekible.todo\geekible.todo.models\obj\Debug\net7.0\geekible.todo.models.dll
+C:\Projects\dotnet\aws-todo\geekible.todo\geekible.todo.models\obj\Debug\net7.0\refint\geekible.todo.models.dll
+C:\Projects\dotnet\aws-todo\geekible.todo\geekible.todo.models\obj\Debug\net7.0\geekible.todo.models.pdb
+C:\Projects\dotnet\aws-todo\geekible.todo\geekible.todo.models\obj\Debug\net7.0\ref\geekible.todo.models.dll

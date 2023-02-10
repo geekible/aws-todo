@@ -11,4 +11,10 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\geekible.todo.logic\geekible.todo.logic.csproj" />
+    <ProjectReference Include="..\geekible.todo.models\geekible.todo.models.csproj" />
+    <ProjectReference Include="..\geekible.todo.repositories\geekible.todo.repositories.csproj" />
+  </ItemGroup>
+
 </Project>

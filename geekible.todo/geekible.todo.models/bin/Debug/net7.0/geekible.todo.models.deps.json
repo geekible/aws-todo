@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "geekible.todo.models/1.0.0": {
+        "runtime": {
+          "geekible.todo.models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "geekible.todo.models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

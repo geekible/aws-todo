@@ -4,6 +4,188 @@
     "C:\\Projects\\dotnet\\aws-todo\\geekible.todo\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
+    "C:\\Projects\\dotnet\\aws-todo\\geekible.todo\\geekible.todo.logic\\geekible.todo.logic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\dotnet\\aws-todo\\geekible.todo\\geekible.todo.logic\\geekible.todo.logic.csproj",
+        "projectName": "geekible.todo.logic",
+        "projectPath": "C:\\Projects\\dotnet\\aws-todo\\geekible.todo\\geekible.todo.logic\\geekible.todo.logic.csproj",
+        "packagesPath": "C:\\Users\\richa\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\dotnet\\aws-todo\\geekible.todo\\geekible.todo.logic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\richa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Projects\\dotnet\\aws-todo\\geekible.todo\\geekible.todo.models\\geekible.todo.models.csproj": {
+                "projectPath": "C:\\Projects\\dotnet\\aws-todo\\geekible.todo\\geekible.todo.models\\geekible.todo.models.csproj"
+              },
+              "C:\\Projects\\dotnet\\aws-todo\\geekible.todo\\geekible.todo.repositories\\geekible.todo.repositories.csproj": {
+                "projectPath": "C:\\Projects\\dotnet\\aws-todo\\geekible.todo\\geekible.todo.repositories\\geekible.todo.repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\dotnet\\aws-todo\\geekible.todo\\geekible.todo.models\\geekible.todo.models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\dotnet\\aws-todo\\geekible.todo\\geekible.todo.models\\geekible.todo.models.csproj",
+        "projectName": "geekible.todo.models",
+        "projectPath": "C:\\Projects\\dotnet\\aws-todo\\geekible.todo\\geekible.todo.models\\geekible.todo.models.csproj",
+        "packagesPath": "C:\\Users\\richa\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\dotnet\\aws-todo\\geekible.todo\\geekible.todo.models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\richa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\dotnet\\aws-todo\\geekible.todo\\geekible.todo.repositories\\geekible.todo.repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\dotnet\\aws-todo\\geekible.todo\\geekible.todo.repositories\\geekible.todo.repositories.csproj",
+        "projectName": "geekible.todo.repositories",
+        "projectPath": "C:\\Projects\\dotnet\\aws-todo\\geekible.todo\\geekible.todo.repositories\\geekible.todo.repositories.csproj",
+        "packagesPath": "C:\\Users\\richa\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\dotnet\\aws-todo\\geekible.todo\\geekible.todo.repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\richa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Projects\\dotnet\\aws-todo\\geekible.todo\\geekible.todo.models\\geekible.todo.models.csproj": {
+                "projectPath": "C:\\Projects\\dotnet\\aws-todo\\geekible.todo\\geekible.todo.models\\geekible.todo.models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AWSSDK.DynamoDBv2": {
+              "target": "Package",
+              "version": "[3.7.101.42, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Projects\\dotnet\\aws-todo\\geekible.todo\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -27,7 +209,17 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Projects\\dotnet\\aws-todo\\geekible.todo\\geekible.todo.logic\\geekible.todo.logic.csproj": {
+                "projectPath": "C:\\Projects\\dotnet\\aws-todo\\geekible.todo\\geekible.todo.logic\\geekible.todo.logic.csproj"
+              },
+              "C:\\Projects\\dotnet\\aws-todo\\geekible.todo\\geekible.todo.models\\geekible.todo.models.csproj": {
+                "projectPath": "C:\\Projects\\dotnet\\aws-todo\\geekible.todo\\geekible.todo.models\\geekible.todo.models.csproj"
+              },
+              "C:\\Projects\\dotnet\\aws-todo\\geekible.todo\\geekible.todo.repositories\\geekible.todo.repositories.csproj": {
+                "projectPath": "C:\\Projects\\dotnet\\aws-todo\\geekible.todo\\geekible.todo.repositories\\geekible.todo.repositories.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

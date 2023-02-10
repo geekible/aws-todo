@@ -30,6 +30,16 @@
             "related": ".pdb;.xml"
           }
         }
+      },
+      "geekible.todo.models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/geekible.todo.models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/geekible.todo.models.dll": {}
+        }
       }
     }
   },
@@ -85,11 +95,17 @@
         "tools/install.ps1",
         "tools/uninstall.ps1"
       ]
+    },
+    "geekible.todo.models/1.0.0": {
+      "type": "project",
+      "path": "../geekible.todo.models/geekible.todo.models.csproj",
+      "msbuildProject": "../geekible.todo.models/geekible.todo.models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "AWSSDK.DynamoDBv2 >= 3.7.101.42"
+      "AWSSDK.DynamoDBv2 >= 3.7.101.42",
+      "geekible.todo.models >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -118,7 +134,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Projects\\dotnet\\aws-todo\\geekible.todo\\geekible.todo.models\\geekible.todo.models.csproj": {
+              "projectPath": "C:\\Projects\\dotnet\\aws-todo\\geekible.todo\\geekible.todo.models\\geekible.todo.models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

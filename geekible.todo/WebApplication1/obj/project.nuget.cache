@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "DFGSJlPvFYiKWmIHoH4qszPBdB0SONUDT6mEwHCzMqGaxO8frUzkujb8frJ8LrymbbvZkpYvareiMZGIAYuIgQ==",
+  "dgSpecHash": "Y0aLgQQsurXgC+m2wDvKx/AgI4Qv/aVxbk8muwbtHuhEWLlfsyoHIyqYceiLRypKDfhRPQchFMcjva1GOodicQ==",
   "success": true,
   "projectFilePath": "C:\\Projects\\dotnet\\aws-todo\\geekible.todo\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\richa\\.nuget\\packages\\awssdk.core\\3.7.104.6\\awssdk.core.3.7.104.6.nupkg.sha512",
+    "C:\\Users\\richa\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.101.42\\awssdk.dynamodbv2.3.7.101.42.nupkg.sha512",
     "C:\\Users\\richa\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.2\\microsoft.aspnetcore.openapi.7.0.2.nupkg.sha512",
     "C:\\Users\\richa\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\richa\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
