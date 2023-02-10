@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0X3xEr4dCAGIdm1yLZQox6Pd1It9RCL8Sz+gezQtb88ko+syuWOLSbHEj+wTdyBbWmHlxvB87Zh/1K4ROUf2VA==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\dotnet\\aws-todo\\geekible.todo\\geekible.todo.repositories\\geekible.todo.repositories.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\richa\\.nuget\\packages\\awssdk.core\\3.7.104.6\\awssdk.core.3.7.104.6.nupkg.sha512",
+    "C:\\Users\\richa\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.101.42\\awssdk.dynamodbv2.3.7.101.42.nupkg.sha512"
+  ],
+  "logs": []
+}
