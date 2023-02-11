@@ -52,7 +52,6 @@ namespace geekible.todo.repositories
             }
             catch (Exception e)
             {
-                Console.WriteLine(e);
                 throw;
             }
         }

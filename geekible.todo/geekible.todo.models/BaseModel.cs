@@ -2,7 +2,7 @@
 {
     public class BaseModel
     {
-        public int Id { get; set; }
+        public string ID { get; set; }
         public string CreatedBy { get; set; }
         public DateTime CreatedDateTime { get; set; } = DateTime.Now;
         public string LastUpdatedBy { get; set; }

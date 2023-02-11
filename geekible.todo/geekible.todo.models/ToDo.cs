@@ -19,6 +19,6 @@ namespace geekible.todo.models
         public int DueMins { get; set; }
         public string Title { get; set; }
         public string Description { get; set; }
-        public int StatusId { get; set; }
+        public int StatusID { get; set; } = 1;
     }
 }

@@ -15,9 +15,11 @@ builder.Services.AddSwaggerGen();
 //DI
 //logic
 builder.Services.AddScoped<IBuildEnvironment, BuildEnvironment>();
+builder.Services.AddScoped<IToDoLogic, ToDoLogic>();
 
 //repositories
 builder.Services.AddScoped<IDynamoDBTableMigrations, DynamoDBTableMigrations>();
+builder.Services.AddScoped<IToDoRepository, ToDoRepository>();
 //End DI
 
 var app = builder.Build();
